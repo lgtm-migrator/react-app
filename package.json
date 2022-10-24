@@ -13,8 +13,8 @@
     "storybook": "start-storybook -p 9001 -c .storybook"
   },
   "dependencies": {
-    "@storybook/addon-actions": "^5.3.21",
-    "@storybook/addon-links": "^5.3.21",
+    "@storybook/addon-actions": "^6.5.13",
+    "@storybook/addon-links": "^6.5.13",
     "classnames": "^2.3.2",
     "connected-react-router": "^6.9.3",
     "final-form": "^4.20.7",
